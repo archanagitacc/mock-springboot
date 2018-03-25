@@ -1,0 +1,20 @@
+{
+  "data": [{
+    "type": "csllProductInstance",
+    "id": "PRI000039125911",
+    "attributes": {
+      "copperPathId": "CPI000023284285"
+    },
+    "relationships": {
+      "address": {
+        "data": {
+          "id": "LOC000000183359",
+          "type": "location"
+        },
+        "links": {
+          "related": "https://api.cis.nbn.com.au/places/v1/locations/LOC000000183359"
+      }
+    }
+  }
+  }]
+}

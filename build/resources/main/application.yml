@@ -1,0 +1,7 @@
+server:
+  port: 8090
+nbnco:
+  smpproxyurl: http://localhost:8090/notification
+  client:
+    connection-timeout: 5000
+    read-timeout: 5000
